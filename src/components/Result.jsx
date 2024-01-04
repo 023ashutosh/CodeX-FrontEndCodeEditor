@@ -22,7 +22,6 @@ const Result = () => {
                 srcDoc={srcCode}
                 title="Output"
                 sandbox="allow-scripts"
-                frameBorder={0}
                 width="100%"
                 height="100%"
             />
